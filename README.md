@@ -125,7 +125,7 @@ http://www.redruralnacional.es/leader/grupos-de-accion-local
 	Asociación para el Desarrollo Local de La Sierra Norte de Guadalajara
 	
 	
-[[CUENCA]]
+## Cuenca
 Los Grupos de Desarrollo Rural, son asociaciones sin ánimo de lucro formadas por los principales actores locales de sus territorios de actuación (Ayuntamientos, empresarios, sindicatos, asociaciones, ...), constituidas con el fin de conseguir un desarrollo integral y sostenible en los territorios rurales de nuestra Provincia.
 
 Los G.D.R. de la provincia de Cuenca son:
@@ -145,21 +145,21 @@ Para conseguir su objetivo, los grupos disponen de fondos comunitarios, nacional
     Formación de la población.
     Implantación y difusión de las nuevas tecnologías.
     
-#Guadalajara
+# Guadalajara
 
     ADAC - ASOCIACIÓN PARA EL DESARROLLO DE ALCARRIA Y LA CAMPIÑA
     ADASUR - ASOCIACIÓN PARA EL DESARROLLO DE LA ALCARRIA SUR
     ADEL - ASOCIACIÓN PARA EL DESARROLLO LOCAL DE LA SIERRA NORTE DE GUADALAJARA
     MOLINA DE ARAGÓN - ASOCIACIÓN DE DESARROLLO RURAL MOLINA DE ARAGÓN - ALTO TAJO 
     
-##Soria
+## Soria
    
    	ADEMA - ASOCIACION PARA EL DESARROLLO ENDOGENO DE ALMAZAN Y OTROS MUNICIPIOS 
    	ASOPIVA - ASOCIACION PINARES EL VALLE PARA EL DESARROLLO RURAL INTEGRAL 
    	PROYNERSO - ASOCIACION PROYECTO NORESTE DE SORIA 
    	TIERRAS DEL CID - ASOCIACIÓN TIERRAS SORIANAS DEL CID 
 	
-##Teruel
+## Teruel
 
 	ADIBAMA - ASOCIACIÓN PARA EL DESARROLLO INTERAL DEL BAJO MARTÍN ANDORRA SIERRA DE ARCOS 
 	ADRI JILOCA GALLOCANTA - ASOCIACIÓN PARA EL DESARROLLO RURAL INTEGRAL DE LAS TIERRAS DEL JILOCA Y GALLOCANTA 
