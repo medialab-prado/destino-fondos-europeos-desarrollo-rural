@@ -1,0 +1,155 @@
+.titleFund {
+  display: flex;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+  background-color: #E84542;
+  color: white;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.photoFund {
+ width: 100%;
+ height: auto;
+
+}
+.fundBoxLeft {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}
+.textLeft {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: rgba(12,22,36,1);
+  background-color: -moz-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(12,22,36,1)), color-stop(1%, rgba(12,22,36,1)), color-stop(100%, rgba(21,40,68,1)));
+background: -webkit-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+background: -o-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+background: -ms-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+background: linear-gradient(to bottom, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c1624', endColorstr='#152844', GradientType=0 );
+  color: white;
+  padding: 10px;
+}
+.fundBoxRight {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}
+.textRight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: rgba(12,22,36,1);
+  background-color: -moz-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(12,22,36,1)), color-stop(1%, rgba(12,22,36,1)), color-stop(100%, rgba(21,40,68,1)));
+background: -webkit-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+background: -o-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+background: -ms-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+background: linear-gradient(to bottom, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c1624', endColorstr='#152844', GradientType=0 );
+  color: white;
+  padding: 10px;
+}
+.btnInfo {
+  width: 100px;
+  height: 20px;
+  font-family: $default-font-family;
+  font-size: 10px;
+  background-color: #E84542;
+  color: #D2D5D8;
+  border: 1px solid;
+  border-color: #D2D5D8;
+  border-radius: 2px;
+}
+.nameFund {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+}
+@media(min-width:1000px){
+  .titleFund {
+    display: flex;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    background-color: #E84542;
+    color: white;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .photoFund {
+    width:100%;
+    height:320px;
+  }
+
+  .fundBoxLeft {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 320px;
+    background: rgba(12,22,36,1);
+    background: -moz-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(12,22,36,1)), color-stop(1%, rgba(12,22,36,1)), color-stop(100%, rgba(21,40,68,1)));
+   background: -webkit-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+   background: -o-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+   background: -ms-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+   background: linear-gradient(to bottom, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c1624', endColorstr='#152844', GradientType=0 );
+   }
+  .textLeft {
+    font-family: $default-font-family;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding: 50px;
+  }
+  .fundBoxRight {
+    width: 100%;
+    height:320px;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    background: rgba(12,22,36,1);
+    background: -moz-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(12,22,36,1)), color-stop(1%, rgba(12,22,36,1)), color-stop(100%, rgba(21,40,68,1)));
+  background: -webkit-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+  background: -o-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+  background: -ms-linear-gradient(top, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+  background: linear-gradient(to bottom, rgba(12,22,36,1) 0%, rgba(12,22,36,1) 1%, rgba(21,40,68,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c1624', endColorstr='#152844', GradientType=0 );
+  }
+  .textRight {
+    font-family: $default-font-family;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding: 50px;
+  }
+  .btnInfo {
+    width: 150px;
+    height: 30px;
+    font-family: $default-font-family;
+    font-size: 20px;
+    background-color: #E84542;
+    color: #D2D5D8;
+    border: 1px solid;
+    border-color: #D2D5D8;
+    border-radius: 5px;
+  }
+  .name {
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+  }
+}

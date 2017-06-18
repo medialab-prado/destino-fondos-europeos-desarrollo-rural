@@ -1,0 +1,33 @@
+.up {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: $primary-color;
+  position: absolute;
+  right: 40px;
+  top: -30px;
+  border: 3px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.up img{
+  width: 20px;
+  height: 20px;
+}
+
+.icons-about{
+  width: 30px;
+}
+
+.btn-menu-mobile{
+  text-decoration: none;
+  background-color: #fafafa;
+  border: none;
+  display: none;
+}
+
+.linkInfo{
+  color:white;
+}

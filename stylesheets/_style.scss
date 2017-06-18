@@ -1,0 +1,66 @@
+
+.MediaLab {
+  background-color: #fafafa;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.logo{
+  padding-top: $unit;
+}
+
+.MediaLab-text {
+  padding-left: $unit * 5;
+  padding-right: $unit * 5;
+  color: #555555;
+  font-size: 20px;
+  margin-top: $unit;
+}
+
+.footer{
+  width: 100%;
+  background-color: $primary-color;
+  color: white;
+  position: relative;
+  padding: 15px;
+}
+
+.info{
+  display: flex;
+  margin-bottom: 5px;
+  margin-left: 40px;
+}
+
+.contact{
+  width: 250px;
+}
+
+.place{
+  display: flex;
+  font-size: 12px;
+}
+
+.place img{
+  width: 15px;
+  margin-right: 5px;
+}
+
+.place p{
+  margin: 0;
+  padding: 0;
+}
+
+.icon{
+  width: 30px;
+  margin-right: 8px;
+  transition: all 0.5s;
+}
+
+.icon:hover{
+  opacity: 0.8;
+}
+
+.copyright{
+  text-align: center;
+  margin:0;
+}
