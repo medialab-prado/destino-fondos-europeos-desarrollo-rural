@@ -98,3 +98,82 @@ zonas en cuestión, identificando cada municipio de estas con su tamaño poblaci
 fondos europeos a lo largo del tiempo y el uso de estos fondos en las regiones. Para visualizarlo,
 se creará una línea temporal en la parte inferior del mapa, que permita revelar el dinero que ha
 sido otorgado a cada municipio y en qué se ha empleado a lo largo de los años.
+
+
+
+##¿Cómo vamos a trabajar?
+
+Nos centraremos en cuatro provincias (Cuenca, Guadalajara, Soria y Teruel) y, por lo tanto, en tres Programas de Desarrollo Rural Regional: PDR_CASTILLAYLEÓN PDR_CASTILLALAMANCHA Y PDR_ARAGÓN
+
+Y Cada PDR tiene varios Grupos de Acción Local: 
+http://www.redruralnacional.es/leader/grupos-de-accion-local
+
+	Asociación "Promoción y Desarrollo Serrano" (Cuenca)
+	CEDER Alcarria Conquense
+	Federación para el Desarrollo de la Sierra y Mancha Conquense
+	Asociación para el Desarrollo Rural Integral de la Sierra de Albarracín (Teruel)
+	Asociación para el Desarrollo Rural Integral de las Tierras del Jiloca y Gallocanta (Teruel)
+	Asociación para el Desarrollo Rural de Gúdar, Javalambre y Maestrazgo (Teruel)	
+	Asociación para el Desarrollo Rural e Integral de la Comarca de Teruel 
+	Oficina de Fomento y Desarrollo de la Comarca Cuencas Mineras (Teruel)
+	Asociación de Desarrollo Rural "Molina de Aragón - Alto Tajo" (Guadalajara)
+	Asociación para el Desarrollo Rural Integral de la Comarca de Calatayud y del Aranda (Teruel)
+	Asociación para el Desarrollo Endógeno de Almazán y otros municipios (Guadalajara)
+	Asociación para el Desarrollo Rural Integral Tierras Sorianas del Cid
+	Asociación Proyecto Noreste de Soria
+	Asociación Pinares El Valle para el Desarrollo Rural Integral (Soria)
+	Asociación para el Desarrollo Local de La Sierra Norte de Guadalajara
+	
+	
+## Cuenca
+Los Grupos de Desarrollo Rural, son asociaciones sin ánimo de lucro formadas por los principales actores locales de sus territorios de actuación (Ayuntamientos, empresarios, sindicatos, asociaciones, ...), constituidas con el fin de conseguir un desarrollo integral y sostenible en los territorios rurales de nuestra Provincia.
+
+Los G.D.R. de la provincia de Cuenca son:
+
+    ADESIMAN.
+    ADI El Záncara.
+    ADIMAN.
+    CEDER Alcarria Conquense.
+    PRODESE.
+
+Para conseguir su objetivo, los grupos disponen de fondos comunitarios, nacionales, regionales y locales, para financiar actuaciones en las siguientes áreas:
+
+    Valoración del patrimonio natural y cultural de nuestros pueblos.
+    Conservación del Medio Ambiente.
+    Fomento de las PYME's, básicamente en el sector agroalimentario e industrial.
+    Fomento del turismo rural.
+    Formación de la población.
+    Implantación y difusión de las nuevas tecnologías.
+    
+# Guadalajara
+
+    ADAC - ASOCIACIÓN PARA EL DESARROLLO DE ALCARRIA Y LA CAMPIÑA
+    ADASUR - ASOCIACIÓN PARA EL DESARROLLO DE LA ALCARRIA SUR
+    ADEL - ASOCIACIÓN PARA EL DESARROLLO LOCAL DE LA SIERRA NORTE DE GUADALAJARA
+    MOLINA DE ARAGÓN - ASOCIACIÓN DE DESARROLLO RURAL MOLINA DE ARAGÓN - ALTO TAJO 
+    
+## Soria
+   
+   	ADEMA - ASOCIACION PARA EL DESARROLLO ENDOGENO DE ALMAZAN Y OTROS MUNICIPIOS 
+   	ASOPIVA - ASOCIACION PINARES EL VALLE PARA EL DESARROLLO RURAL INTEGRAL 
+   	PROYNERSO - ASOCIACION PROYECTO NORESTE DE SORIA 
+   	TIERRAS DEL CID - ASOCIACIÓN TIERRAS SORIANAS DEL CID 
+	
+## Teruel
+
+	ADIBAMA - ASOCIACIÓN PARA EL DESARROLLO INTERAL DEL BAJO MARTÍN ANDORRA SIERRA DE ARCOS 
+	ADRI JILOCA GALLOCANTA - ASOCIACIÓN PARA EL DESARROLLO RURAL INTEGRAL DE LAS TIERRAS DEL JILOCA Y GALLOCANTA 
+	ADRI TERUEL - ASOCIACIÓN PARA EL DESARROLLO RURAL E INTEGRAL DE LA COMARCA DE TERUEL 
+	AGUJAMA - GÚDAR-JAVALAMBRE Y MAESTRAZGO, ASOCIACIÓN DE DESARROLLO 
+	ASIADER - ASOCIACIÓN PARA EL DESARROLLO RURAL INTEGRAL DE LA SIERRA DE ALBARRACÍN 
+	OFYCUMI - OFICINA DE FOMENTO Y DESARROLLO DE LA COMARCA CUENCAS MINERAS 
+	OMEZYMA - BAJO ARAGÓN - MATARRAÑA 
+	
+	
+	
+	
+	
+	
+	
+	
+
